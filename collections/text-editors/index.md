@@ -1,6 +1,6 @@
 ---
 items:
- - adobe/brackets
+ - adobe/adobe
  - limetext/lime
  - textmate/textmate
  - neovim/neovim
